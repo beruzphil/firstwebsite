@@ -1,0 +1,15 @@
+.h3first {
+    background-color: green;
+    width: 320px
+    }
+    
+.h3second {
+      text-align: center;
+      background-color: grey;
+      width: 320px
+    }
+    
+li {
+      background-color: coral;
+      width: 80px
+    }
